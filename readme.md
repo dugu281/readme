@@ -1,8 +1,4 @@
 
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="image.png" alt="my banner"></a>
-</p>
-
 <h3 align="center">
 Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Durgesh</a> 👋
 </h3>
@@ -11,6 +7,10 @@ Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">
 I'm a Full Stack Web Developer 💻!
 </h2> 
 
+
+<p align="center">
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="image.png" alt="my banner"></a>
+</p>
 
 
 <!-- About Section -->
