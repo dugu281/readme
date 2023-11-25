@@ -96,7 +96,7 @@
 
 
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="readme.jpg" alt="my banner"></a>
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="readme.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
