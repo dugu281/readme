@@ -3,7 +3,7 @@
 Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Durgesh</a> 👋
 </h1>
 
-<h3 align="center">
+<h3>
 I'm a Full Stack Web Developer 💻!
 </h3> 
 
