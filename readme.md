@@ -8,7 +8,7 @@ I'm a Full Stack Web Developer 💻!
 
 
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="image.png" alt="my banner"></a>
+  <a href="https://github.com/DurgeshBhoye" target="_blank" rel="noreferrer"><img src="image.png" alt="my banner"></a>
 </p>
 
 
