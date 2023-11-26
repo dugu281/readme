@@ -1,5 +1,5 @@
 <h2 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Durgesh</a> 👋
+Hi there, I'm <a href="https://github.com/DurgeshBhoye" target="_blank" rel="noreferrer">Durgesh</a> 👋
 </h2>
 
 <h3>
@@ -76,7 +76,7 @@ I'm a Full Stack Web Developer 💻!
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/durgeshbhoye"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="DurgeshBhoye | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/durgeshbhoye"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="DurgeshBhoye | LinkedIn" width="26px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
