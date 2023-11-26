@@ -1,9 +1,6 @@
-
 <h2 align="center">
 Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Durgesh</a> 👋
 </h2>
-
-</br>
 
 <h3>
 I'm a Full Stack Web Developer 💻!
